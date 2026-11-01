@@ -1,4 +1,4 @@
-# FLEX Download Manager 1.0
+# FLEX Download Manager
 
 A personal, **non-commercial** segmented download manager for Windows x64,
 written from scratch in C++17 with **Qt 6 Widgets** for the user interface and
